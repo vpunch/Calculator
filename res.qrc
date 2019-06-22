@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="/">
+		<file>gemunu-libre.bold.otf</file>
+	</qresource>
+</RCC>
