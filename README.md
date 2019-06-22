@@ -32,5 +32,5 @@ Note:
 - Vs = 0 by default and changes with each operation
 
 ## View
-![photo](https://github.com/vpunch/Calculator/blob/master/imgs/photo.png)
+![photo](https://github.com/vpunch/Calculator/blob/master/imgs/photo.jpg)
 ![screenshot](https://github.com/vpunch/Calculator/blob/master/imgs/screenshot.png)
